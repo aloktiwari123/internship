@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:600|Noto+Sans|Open+Sans:400,700&display=swap');
+
+body{
+   
+  /*background: linear-gradient(120deg,#f3c786, #8e44ad);*/
+  /* background-image: url('assets/ballet.jpg');*/
+  
+	/* Full height */
+	height: 100%; 
+  
+	/* Create the parallax scrolling effect */
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+    
+  }
+  #picture {
+    
+    border: 10px solid #333333;
+    border-radius: 50%;
+}
+.jumbotron{
+  background:black;
+  height: 100%;
+
+}
+h1
+{
+  color:white;
+  font-size: xx-large;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p1{
+  color: white;
+}
+
+#circle
+{
+  height: 100px;
+  width: auto;
+}
+.container{
+  display: inline-flexbox;
+  
+}
+text{
+  font-size: larger;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+#top2{
+  background: white;
+  
+}
+#tb1,#tb2{
+  color: black;
+}
+#tb{
+  font-size: x-large;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#tby{
+  color: green;
+  font-size: larger;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#border{
+  
+  border:solid  grey;
+    border-radius: 5px;
+  }
+#hb{
+  width:100px;
+  border:solid rgb(45, 180, 45);
+  border-radius: 5px;
+  border-collapse: collapse;
+  }
+  .row{
+    display: flexbox;
+    height: 200px;
+  }
+  a{
+    color: green;
+  }
+  #block{
+    width: 500px;
+    height: 300px;
+  }
+  #top1
+  {
+    height: 600px;
+  }
+  #top
+  {
+    background-color: white;
+  }
+  #b1{
+    background-color: black;
+  }
+  #tb3{
+    font: size 100;;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  #btn
+  {
+    text-decoration-color: green;
+  }
+  #b2
+  {
+    border: solid 2px gray;
+    background-color: white;
+  }
+  #top4{
+    background: white;
+    height: 600px;
+  }
+  #tby1{
+    color: green;
+  font-size:xx-large;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  #bgray
+  {
+    color: gray;
+    font-size:x-large;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  #border1{
+  
+    border:solid   1px grey;
+      
+    }
+    #top5{
+      background: white;
+      height: 250px;
+    }
+    #foot
+    {
+      background-color: #333333;
+    }
